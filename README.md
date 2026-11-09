@@ -16,6 +16,6 @@
 
 ## 📸 软件截图
 
-| 通知栏控制 | 浅色模式 (3个色块) | 深色模式 |
+| 深色模式 | 通知栏控制| 浅色模式 |
 | :---: | :---: | :---: |
 | <img src="https://github.com/HHED01/SubtitleBlockerApp/blob/master/images/main-light.png?raw=true" width="250" /> | <img src="https://github.com/HHED01/SubtitleBlockerApp/blob/master/images/notification.png?raw=true" width="250" /> | <img src="https://github.com/HHED01/SubtitleBlockerApp/blob/master/images/main-dark.png?raw=true" width="250" /> |
