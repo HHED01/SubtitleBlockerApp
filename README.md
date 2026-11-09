@@ -14,3 +14,8 @@
 1. 下载项目右侧 Releases 中的 APK 文件（或者自己用 Android Studio 编译）。
 2. 安装后，请在系统设置中授予“显示在其他应用上层（悬浮窗）”和“通知”权限。
 
+## 📸 软件截图
+
+| 通知栏控制 | 浅色模式 (3个色块) | 深色模式 |
+| :---: | :---: | :---: |
+| <img src="https://github.com/HHED01/SubtitleBlockerApp/blob/master/images/main-light.png?raw=true" width="250" /> | <img src="https://github.com/HHED01/SubtitleBlockerApp/blob/master/images/notification.png?raw=true" width="250" /> | <img src="https://github.com/HHED01/SubtitleBlockerApp/blob/master/images/main-dark.png?raw=true" width="250" /> |
